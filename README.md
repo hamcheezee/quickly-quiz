@@ -28,10 +28,12 @@ Redesigned online quiz platform, built upon the foundation of [PHP_KUIZ](https:/
 ---
 
 ### 🪚 Tools Used:
-Design: ![Static Badge](https://img.shields.io/badge/figma-%252320232a.svg?style=for-the-badge&logo=figma&logoColor=%23000000&color=%2300bdfe)
+Design: ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Front-End: ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=orange) ![CSS](https://img.shields.io/badge/css-yellow.svg?style=for-the-badge&logo=css3&logoColor=blue) 
+Front-End: ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Back-End: ![MySqli](https://img.shields.io/badge/php-red.svg?style=for-the-badge&logo=php&logoColor=purple)
+Back-End: ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Database: ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-green.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=blue) 
+Database: ![phpMyAdmin Badge](https://img.shields.io/badge/phpmyadmin-316192?style=for-the-badge&logo=phpmyadmin&logoColor=white)
